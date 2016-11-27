@@ -59,6 +59,6 @@ int x = 100;
 ```
 *we can also provide specific variables in capture list and individually specify pass by value or reference. This is what we need to know about lambdas for understanding the closures*
 
-__A detailed description of C++ lambdas is present at https://github.com/9lean/Cplusplus_Lambda __
+__A detailed description of C++ lambdas is present at__ https://github.com/9lean/Cplusplus_Lambda 
 
-__and a video tutorial is location at https://www.youtube.com/watch?v=nF9Z6vi9wKA __ 
+__and a video tutorial is location at__ https://www.youtube.com/watch?v=nF9Z6vi9wKA 
