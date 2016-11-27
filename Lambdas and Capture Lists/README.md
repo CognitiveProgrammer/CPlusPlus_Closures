@@ -35,7 +35,7 @@ int x = 100;
 [&](){
    x++;
 }();
-// x is not 101 at this point
+// x is 101 at this point
 ```   
 __Now pass by Value__
 ```
